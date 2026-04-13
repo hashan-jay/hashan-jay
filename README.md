@@ -9,27 +9,22 @@ As a UI/UX enthusiast, loves to code CSS and XML.
 
 ## 🚀 Languages and Tools
 
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![PHP](https://skillicons.dev/icons?i=php)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Joomla](https://skillicons.dev/icons?i=joomla)
 ![Wordpress](https://skillicons.dev/icons?i=wordpress)
-![Odoo](https://skillicons.dev/icons?i=odoo)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Java](https://skillicons.dev/icons?i=java)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![C#](https://skillicons.dev/icons?i=cs)
+![dotnet](https://skillicons.dev/icons?i=dotnet)
 ![Python](https://skillicons.dev/icons?i=python)
 ![R](https://skillicons.dev/icons?i=r)
-![PowerBI](https://skillicons.dev/icons?i=powerbi)
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
+![Photoshop](https://skillicons.dev/icons?i=ps)
+![PremierPro](https://skillicons.dev/icons?i=pr)
+![AfterEffects](https://skillicons.dev/icons?i=ae)
 
 ## 🔗 Connect with me
 
