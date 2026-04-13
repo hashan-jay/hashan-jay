@@ -3,7 +3,7 @@
 I'm Hashan, an undergraduate in Software Engineering.
 
 I'm passionate about Full Stack Web and Mobile application development.
-I mainly work with Java, JavaScript, PHP, and other Web engineering languages.
+I mainly work with Java, JavaScript, PHP, SQL and other Web engineering languages.
 Also works with Python and R for Data Analytics and Machine Learning.
 As a UI/UX enthusiast, loves to code CSS and XML.
 
@@ -11,11 +11,30 @@ As a UI/UX enthusiast, loves to code CSS and XML.
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
-![React](https://skillicons.dev/icons?i=react)
+![PHP](https://skillicons.dev/icons?i=php)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Joomla](https://skillicons.dev/icons?i=joomla)
+![Wordpress](https://skillicons.dev/icons?i=wordpress)
+![Odoo](https://skillicons.dev/icons?i=odoo)
 ![Java](https://skillicons.dev/icons?i=java)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![C#](https://skillicons.dev/icons?i=cs)
 ![Python](https://skillicons.dev/icons?i=python)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+![R](https://skillicons.dev/icons?i=r)
+![PowerBI](https://skillicons.dev/icons?i=powerbi)
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect with me
+
+- LinkedIn: https://linkedin.com/in/hashanjayy
+- Portfolio: https://github.com/hashan-jay
 
 
 <!--
