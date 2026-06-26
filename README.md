@@ -13,6 +13,7 @@ As a UI/UX enthusiast, loves to code CSS and XML.
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Wordpress](https://skillicons.dev/icons?i=wordpress)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
