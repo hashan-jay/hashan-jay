@@ -3,8 +3,8 @@
 I'm Hashan, an undergraduate in Software Engineering.
 
 I'm passionate about Full Stack Web and Mobile application development.
-I expertise in Java, JavaScript (React,Next,Node), C# (ASP.NET), PHP, SQL and other Web engineering languages.
-Also works with Python and R for Data Analytics and Machine Learning.
+I expertise in Java, JavaScript and it's frameworks (React.js, Next.js, Node.js), C# (ASP.NET), PHP, SQL and other Web engineering languages.
+Works with Python and R for Data Analytics and Statistics.
 As a UI/UX enthusiast, loves to design!
 
 ## 🚀 Languages and Tools
