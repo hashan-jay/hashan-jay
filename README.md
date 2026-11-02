@@ -22,6 +22,7 @@ Loves designing products as a UI/UX enthusiast.
 ![C#](https://skillicons.dev/icons?i=cs)
 ![dotnet](https://skillicons.dev/icons?i=dotnet)
 ![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
 ![R](https://skillicons.dev/icons?i=r)
 ![Photoshop](https://skillicons.dev/icons?i=ps)
 ![PremierPro](https://skillicons.dev/icons?i=pr)
